@@ -1,18 +1,26 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Made this project as part of neogcamp. Introduces the concept of programming.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "abhishek singh",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
     "chalk": "^5.2.0",
     "node-fetch": "^3.2.6",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-06-singh/neogcamp-cli-project-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhishek-06-singh/neogcamp-cli-project-1/issues"
+  },
+  "homepage": "https://github.com/abhishek-06-singh/neogcamp-cli-project-1#readme"
 }
