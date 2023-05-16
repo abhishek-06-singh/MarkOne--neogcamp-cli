@@ -13,7 +13,7 @@ This is a simple quiz game built with JavaScript. The game asks a series of ques
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory where the code files are located.
-3. Run the command `node quiz.js` to start the game.
+3. Run the command `node index.js` to start the game.
 4. Follow the prompts and enter your answers to the questions.
 5. At the end of the game, the total points and high scores will be displayed.
 
