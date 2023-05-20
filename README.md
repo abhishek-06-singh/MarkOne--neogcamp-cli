@@ -1,4 +1,5 @@
-# neogcamp-cli-project-1
+#     How well do you know me ? 
+## MarkOne--neogcamp-cli
 
 Made this project as part of neogcamp. Introduces the concept of programming.
 This is a simple quiz game built with JavaScript. The game asks a series of questions about Abhishek, and the player earns points for each correct answer.
